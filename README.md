@@ -1,0 +1,3 @@
+- Projeto feito para o teste da vaga de data capture da Lett utilizando Jsoup. 
+- A URL utilizada foi: https://www.araujo.com.br/protetor-solar-neostrata-minesol-oil-control-fps-70-gel-creme-40g/p?idsku=222615, da loja virtual da Araujo.
+- Os dados extraídos foram nome do produto, preço antigo, preço novo (promocional) e URL da imagem.
